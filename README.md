@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Languages: </h3>
- </a><a style="margin:10px" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a style="margin:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a style="margin:10px" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+ </a><a style="margin:10px" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a style="margin:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a style="margin:10px" href="https://go.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" width="80" height="60" /> 
 
 </a>
@@ -28,5 +28,5 @@
 <br>
 <hr>
  <a style="margin:10px" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  <a style="margin:10px" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>   <a style="margin:10px" href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a> </a>  <a style="margin:10px" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>   
-<a  style="margin:10px"><img width="60" height="60" src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000"></a>
+<a href="https://www.gnu.org/software/bash/"  style="margin:10px"><img width="60" height="60" src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000"> </a>
 </p>
