@@ -7,13 +7,8 @@
 </p>
 
 <h3 align="left">Languages: </h3>
- </a><a style="margin:10px" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a style="margin:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a style="margin:10px" href="https://go.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" width="80" height="60" /> 
-
-</a>
-
-
-
+ <a style="margin:10px" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a style="margin:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a style="margin:10px" href="https://go.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" width="80" height="60" /> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60" style="max-width: 100%;"> </a><a href="https://www.w3schools.com/c/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="80" height="60" style="max-width: 100%;"> </a>
 <h3 align="left">Backend: </h3>
 <a style="margin:10px" href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="60" height="60"/> </a> </a>
 <a href="https://gofiber.io/" style="margin:10px">
