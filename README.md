@@ -12,7 +12,7 @@
 <h3 align="left">Backend: </h3>
 <a style="margin:10px" href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="60" height="60"/> </a> </a>
 <a href="https://gofiber.io/" style="margin:10px">
-<img src="https://gofiber.io/assets/images/logo.svg" alt="fiber" width="90" height="60" />
+<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="fiber" width="90" height="60" />
 </a>
 <p align="left">
 <h3 align="left">Database: </h3>
