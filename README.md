@@ -1,7 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-kh1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-kh1" /> </p>
-
-<p align="left">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-kh1&label=views&color=0e75a1&style=flat" alt="mohammad-kh1" /> </p>
 
 <h3 align="left">Languages: </h3>
  <a style="margin:10px" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a style="margin:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a style="margin:10px" href="https://go.dev/" target="_blank" rel="noreferrer"> 
