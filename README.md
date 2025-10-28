@@ -1,21 +1,60 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-kh1&label=views&color=0e75a1&style=flat" alt="mohammad-kh1" /> </p>
+### Contact me: [@](https://t.me/)
 
-<h3 align="left">Languages: </h3>
- <a  href="https://www.php.net" style="margin: 20px;" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a style="margin: 20px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /> </a> <a style="margin: 20px;" href="https://go.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" width="80" height="60" /> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60" > </a><a href="https://www.w3schools.com/c/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="80" height="60" > </a>
-<h3 align="left">Backend: </h3>
-<a style="margin: 20px;" href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="60" height="60"/> </a> </a>
-<a href="https://gofiber.io/" style="margin: 20px;">
-<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="fiber" width="90" height="60" />
-</a>
-<p align="left">
-<h3 align="left">Database: </h3>
-<a style="margin:10px" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-<a style="margin:10px" href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>  <a style="margin:10px" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a style="margin:10px" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> 
+Hi all, I'm **Mohammad**! 👋 
 
-<br>
-<br>
-<hr>
- <a style="margin:10px" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  <a style="margin:10px" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>   <a style="margin:10px" href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a> </a>  <a style="margin:10px" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>   
-<a href="https://www.gnu.org/software/bash/"  style="margin:10px"><img width="60" height="60" src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000"> </a>
+<h3 align="left">Languages:</h3>
+<p align="center">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin-right:15px;"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" width="70" height="50" style="margin-right:15px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="50" style="margin-right:15px;"/>
+  </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="50"/>
+  </a>
 </p>
+
+<hr>
+<br>
+<p align="center">
+  <img alt="Stars" src="https://img.shields.io/github/stars/mohammad-kh1?label=Stars" />
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mohammad-kh1" />
+    <br>
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kh1&langs_count=8&theme=react&layout=compact" />
+</p>
+
+<br>
+<br>
+<br>
+
+## My favorite projects
+
+<table align="center">
+  <thead>
+    <tr>
+      <td><b>PROJECT</b></td>
+      <td><b>STARS</b></td>
+      <td><b>FORKS</b></td>
+      <td></td>
+      <td><b>PROJECT</b></td>
+      <td><b>STARS</b></td>
+      <td><b>FORKS</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><a href="https://github.com/mohammad-kh1/go-coreutils"><b>Coreutils</b></a></td>
+        <td><img src="https://img.shields.io/github/stars/mohammad-kh1/go-coreutils?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+        <td><img src="https://img.shields.io/github/forks/mohammad-kh1/go-coreutils?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+        <td></td>
+        <td><a href="https://github.com/mohammad-kh1/super-awesome"><b>Super Awesome</b></a></td>
+        <td><img src="https://img.shields.io/github/stars/mohammad-kh1/super-awesome?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+        <td><img src="https://img.shields.io/github/forks/mohammad-kh1/super-awesome?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    </tr>
+ </tbody>
+
+</table>
